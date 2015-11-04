@@ -1,0 +1,2 @@
+# SpeechSynthesis
+Use AVSpeechSynthesizer.
